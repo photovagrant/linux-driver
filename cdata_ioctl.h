@@ -5,5 +5,6 @@
 
 #define IOCTL_EMPTY	_IO(0xCE, 0)
 #define IOCTL_SYNC	_IO(0xCE, 1)
+#define IOCTL_WRITE	_IO(0xCE, 2)
 
 #endif
